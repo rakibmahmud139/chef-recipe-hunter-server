@@ -1,31 +1,29 @@
 [
     {
         "id": 1,
-        "chef_name": "Chef Lee Joon-ho",
-        "chef_picture": "https://i.pinimg.com/564x/2d/38/21/2d3821276cae0349c0a1602534ba7368.jpg",
-        "years_of_experience": 15,
-        "number_of_recipes": 120,
+        "chefName": "Chef Lee Joon-ho",
+        "chefImg": "https://i.pinimg.com/564x/2d/38/21/2d3821276cae0349c0a1602534ba7368.jpg",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 120,
         "likes": 25000,
         "bio": "Chef Lee Joon-ho is a renowned Korean chef with 15 years of culinary experience. He has worked in some of the top restaurants in Seoul and gained a reputation for his innovative fusion dishes that blend traditional Korean flavors with international cuisine. Chef Joon-ho's passion for cooking started at a young age, and his journey in the culinary world has been nothing short of inspiring. He is known for his attention to detail, exquisite plating, and ability to bring out the best in local ingredients. Chef Joon-ho's recipes have garnered a massive following, and his cooking show is loved by millions across the country.",
         "recipes": [
             {
                 "name": "Bulgogi Tacos",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfFSFq207ssMcWJwsWMAem8qM1sQPq0Z25qqtwB2-2N-1dfHUiMqodv0uoQyKg-UoJIw&usqp=CAU",
                 "ingredients": [
                     "Thinly sliced beef",
                     "Soy sauce",
                     "Sesame oil",
                     "Garlic",
-                    "Ginger",
-                    "Tortillas",
-                    "Lettuce",
-                    "Sliced onions",
-                    "Sliced bell peppers"
+                    "Ginger"
                 ],
-                "cooking_method": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
+                "cookingMethod": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
                 "rating": 4.8
             },
             {
                 "name": "Korean Bibimbap Pizza",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCext5CE4U63PKydrzcO0rBBdS9U3mjE5zfrw3HZEQFzmHSuQd7N1APSLyBpBiU71Lrqk&usqp=CAU",
                 "ingredients": [
                     "Pizza dough",
                     "Gochujang (Korean chili paste)",
@@ -33,49 +31,49 @@
                     "Sesame oil",
                     "Ground beef"
                 ],
-                "cooking_method": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
+                "cookingMethod": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
                 "rating": 4.9
             },
             {
                 "name": "Galbi Jjim (Braised Short Ribs)",
+                "recipeImg": "https://mykoreankitchen.com/wp-content/uploads/2017/12/1.-Kalbi-Jjim.jpg",
                 "ingredients": [
                     "Beef short ribs",
                     "Soy sauce",
                     "Brown sugar",
-                    "Garlic"
+                    "Garlic",
+                    "Ground beef"
                 ],
-                "cooking_method": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
+                "cookingMethod": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
                 "rating": 4.7
             }
         ]
     },
     {
         "id": 2,
-        "chef_name": "Chef Kim Mi-soo",
-        "chef_picture": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=681&simg=%2Fcontent%2Fimage%2F2023%2F02%2F23%2F20230223000758_0.jpg",
-        "years_of_experience": 12,
-        "number_of_recipes": 90,
+        "chefName": "Chef Kim Mi-soo",
+        "chefImg": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=681&simg=%2Fcontent%2Fimage%2F2023%2F02%2F23%2F20230223000758_0.jpg",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 90,
         "likes": 18000,
         "bio": "Chef Kim Mi-soon is a highly skilled Korean chef who has been in the culinary industry for over a decade. With a passion for traditional Korean cuisine, she has dedicated her career to preserving and celebrating the rich heritage of Korean dishes. Chef Mi-soon's expertise lies in creating authentic flavors using time-honored techniques passed down through generations. Her restaurant is a favorite among locals and tourists alike, offering a warm and welcoming atmosphere. Chef Mi-soon's dedication to her craft and commitment to promoting Korean food culture have earned her widespread recognition and admiration.",
         "recipes": [
             {
                 "name": "Bulgogi Tacos",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfFSFq207ssMcWJwsWMAem8qM1sQPq0Z25qqtwB2-2N-1dfHUiMqodv0uoQyKg-UoJIw&usqp=CAU",
                 "ingredients": [
                     "Thinly sliced beef",
                     "Soy sauce",
                     "Sesame oil",
                     "Garlic",
-                    "Ginger",
-                    "Tortillas",
-                    "Lettuce",
-                    "Sliced onions",
-                    "Sliced bell peppers"
+                    "Ginger"
                 ],
-                "cooking_method": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
+                "cookingMethod": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
                 "rating": 4.8
             },
             {
                 "name": "Korean Bibimbap Pizza",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCext5CE4U63PKydrzcO0rBBdS9U3mjE5zfrw3HZEQFzmHSuQd7N1APSLyBpBiU71Lrqk&usqp=CAU",
                 "ingredients": [
                     "Pizza dough",
                     "Gochujang (Korean chili paste)",
@@ -83,49 +81,49 @@
                     "Sesame oil",
                     "Ground beef"
                 ],
-                "cooking_method": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
+                "cookingMethod": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
                 "rating": 4.9
             },
             {
                 "name": "Galbi Jjim (Braised Short Ribs)",
+                "recipeImg": "https://mykoreankitchen.com/wp-content/uploads/2017/12/1.-Kalbi-Jjim.jpg",
                 "ingredients": [
                     "Beef short ribs",
                     "Soy sauce",
                     "Brown sugar",
-                    "Garlic"
+                    "Garlic",
+                    "Ground beef"
                 ],
-                "cooking_method": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
+                "cookingMethod": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
                 "rating": 4.7
             }
         ]
     },
     {
         "id": 3,
-        "chef_name": "Chef Park Min-woo",
-        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtsFoJQfuP9Nz44aak3k9wCthF42pkL00ZaeIemTWsbAoVNmoTHfIPn1asA1jUv0QgHI&usqp=CAU",
-        "years_of_experience": 8,
-        "number_of_recipes": 70,
+        "chefName": "Chef Park Min-woo",
+        "chefImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtsFoJQfuP9Nz44aak3k9wCthF42pkL00ZaeIemTWsbAoVNmoTHfIPn1asA1jUv0QgHI&usqp=CAU",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 70,
         "likes": 15000,
         "bio": "Chef Park Min-woo is a rising star in the Korean culinary scene. Despite having 8 years of experience, he has already made a significant impact with his fresh and contemporary approach to cooking. Chef Min-woo's style revolves around using seasonal, locally-sourced ingredients to create simple yet elegant dishes that showcase the natural flavors of the ingredients. His innovative recipes have gained popularity among younger generations, and his social media presence has grown rapidly. Chef Min-woo's dedication to sustainability and his commitment to delivering delightful culinary experiences have earned him a loyal following.",
         "recipes": [
             {
                 "name": "Bulgogi Tacos",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfFSFq207ssMcWJwsWMAem8qM1sQPq0Z25qqtwB2-2N-1dfHUiMqodv0uoQyKg-UoJIw&usqp=CAU",
                 "ingredients": [
                     "Thinly sliced beef",
                     "Soy sauce",
                     "Sesame oil",
                     "Garlic",
-                    "Ginger",
-                    "Tortillas",
-                    "Lettuce",
-                    "Sliced onions",
-                    "Sliced bell peppers"
+                    "Ginger"
                 ],
-                "cooking_method": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
+                "cookingMethod": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
                 "rating": 4.8
             },
             {
                 "name": "Korean Bibimbap Pizza",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCext5CE4U63PKydrzcO0rBBdS9U3mjE5zfrw3HZEQFzmHSuQd7N1APSLyBpBiU71Lrqk&usqp=CAU",
                 "ingredients": [
                     "Pizza dough",
                     "Gochujang (Korean chili paste)",
@@ -133,49 +131,49 @@
                     "Sesame oil",
                     "Ground beef"
                 ],
-                "cooking_method": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
+                "cookingMethod": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
                 "rating": 4.9
             },
             {
                 "name": "Galbi Jjim (Braised Short Ribs)",
+                "recipeImg": "https://mykoreankitchen.com/wp-content/uploads/2017/12/1.-Kalbi-Jjim.jpg",
                 "ingredients": [
                     "Beef short ribs",
                     "Soy sauce",
                     "Brown sugar",
-                    "Garlic"
+                    "Garlic",
+                    "Ground beef"
                 ],
-                "cooking_method": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
+                "cookingMethod": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
                 "rating": 4.7
             }
         ]
     },
     {
         "id": 4,
-        "chef_name": "Chef Choi Eun-ji",
-        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qke24Vy1iIHCQCIJGn7C5Awx5rjC3MSdQFiWYOE2eNSAOfoNJ5RIJNvmIP3jpFiH_3s&usqp=CAU",
-        "years_of_experience": 20,
-        "number_of_recipes": 180,
+        "chefName": "Chef Choi Eun-ji",
+        "chefImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qke24Vy1iIHCQCIJGn7C5Awx5rjC3MSdQFiWYOE2eNSAOfoNJ5RIJNvmIP3jpFiH_3s&usqp=CAU",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 180,
         "likes": 30000,
         "bio": "Chef Choi Eun-ji is a seasoned Korean chef with an impressive 20 years of experience in the culinary world. She has honed her skills in some of the most prestigious restaurants in South Korea and gained recognition for her traditional dishes with a modern twist. Chef Eun-ji's passion lies in exploring the diverse regional flavors of Korea and presenting them in an elegant and contemporary manner. Her extensive knowledge of traditional Korean ingredients and cooking techniques shines through in every dish she creates. Chef Eun-ji's culinary journey has been nothing short of remarkable, and she continues to inspire aspiring chefs with her expertise and dedication.",
         "recipes": [
             {
                 "name": "Bulgogi Tacos",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfFSFq207ssMcWJwsWMAem8qM1sQPq0Z25qqtwB2-2N-1dfHUiMqodv0uoQyKg-UoJIw&usqp=CAU",
                 "ingredients": [
                     "Thinly sliced beef",
                     "Soy sauce",
                     "Sesame oil",
                     "Garlic",
-                    "Ginger",
-                    "Tortillas",
-                    "Lettuce",
-                    "Sliced onions",
-                    "Sliced bell peppers"
+                    "Ginger"
                 ],
-                "cooking_method": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
+                "cookingMethod": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
                 "rating": 4.8
             },
             {
                 "name": "Korean Bibimbap Pizza",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCext5CE4U63PKydrzcO0rBBdS9U3mjE5zfrw3HZEQFzmHSuQd7N1APSLyBpBiU71Lrqk&usqp=CAU",
                 "ingredients": [
                     "Pizza dough",
                     "Gochujang (Korean chili paste)",
@@ -183,49 +181,49 @@
                     "Sesame oil",
                     "Ground beef"
                 ],
-                "cooking_method": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
+                "cookingMethod": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
                 "rating": 4.9
             },
             {
                 "name": "Galbi Jjim (Braised Short Ribs)",
+                "recipeImg": "https://mykoreankitchen.com/wp-content/uploads/2017/12/1.-Kalbi-Jjim.jpg",
                 "ingredients": [
                     "Beef short ribs",
                     "Soy sauce",
                     "Brown sugar",
-                    "Garlic"
+                    "Garlic",
+                    "Ground beef"
                 ],
-                "cooking_method": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
+                "cookingMethod": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
                 "rating": 4.7
             }
         ]
     },
     {
         "id": 5,
-        "chef_name": "Chef Yoon Sang-hyun",
-        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5zz5-rusMEuGnBaipjNPFbQqWW1ZQAKfBMvelxrL3f-aNJb18JslIDcnvX8TPe6lenM&usqp=CAU",
-        "years_of_experience": 10,
-        "number_of_recipes": 60,
+        "chefName": "Chef Yoon Sang-hyun",
+        "chefImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5zz5-rusMEuGnBaipjNPFbQqWW1ZQAKfBMvelxrL3f-aNJb18JslIDcnvX8TPe6lenM&usqp=CAU",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 60,
         "likes": 12000,
         "bio": "Chef Yoon Sang-hyun is a versatile Korean chef known for his dynamic and creative cooking style. With 10 years of experience, he has dabbled in various culinary traditions, incorporating global influences into his dishes. Chef Sang-hyun's bold experimentation with flavors and textures has garnered him a dedicated fanbase. He is equally skilled in both traditional Korean recipes and innovative fusion cuisine, earning him praise from both critics and food enthusiasts. Chef Sang-hyun's adventurous spirit and his ability to think outside the box have made him one of the most exciting chefs in the country.",
         "recipes": [
             {
                 "name": "Bulgogi Tacos",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfFSFq207ssMcWJwsWMAem8qM1sQPq0Z25qqtwB2-2N-1dfHUiMqodv0uoQyKg-UoJIw&usqp=CAU",
                 "ingredients": [
                     "Thinly sliced beef",
                     "Soy sauce",
                     "Sesame oil",
                     "Garlic",
-                    "Ginger",
-                    "Tortillas",
-                    "Lettuce",
-                    "Sliced onions",
-                    "Sliced bell peppers"
+                    "Ginger"
                 ],
-                "cooking_method": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
+                "cookingMethod": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
                 "rating": 4.8
             },
             {
                 "name": "Korean Bibimbap Pizza",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCext5CE4U63PKydrzcO0rBBdS9U3mjE5zfrw3HZEQFzmHSuQd7N1APSLyBpBiU71Lrqk&usqp=CAU",
                 "ingredients": [
                     "Pizza dough",
                     "Gochujang (Korean chili paste)",
@@ -233,49 +231,49 @@
                     "Sesame oil",
                     "Ground beef"
                 ],
-                "cooking_method": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
+                "cookingMethod": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
                 "rating": 4.9
             },
             {
                 "name": "Galbi Jjim (Braised Short Ribs)",
+                "recipeImg": "https://mykoreankitchen.com/wp-content/uploads/2017/12/1.-Kalbi-Jjim.jpg",
                 "ingredients": [
                     "Beef short ribs",
                     "Soy sauce",
                     "Brown sugar",
-                    "Garlic"
+                    "Garlic",
+                    "Ground beef"
                 ],
-                "cooking_method": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
+                "cookingMethod": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
                 "rating": 4.7
             }
         ]
     },
     {
         "id": 6,
-        "chef_name": "Chef Jung Soo-yeon",
-        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTac4gOcIW-Mul0g2i5Q6wOG6OsCkymaWya-1XvfGyEusk3RJz1f3aiqwY3ApcGB7p_uvI&usqp=CAU",
-        "years_of_experience": 6,
-        "number_of_recipes": 40,
+        "chefName": "Chef Jung Soo-yeon",
+        "chefImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTac4gOcIW-Mul0g2i5Q6wOG6OsCkymaWya-1XvfGyEusk3RJz1f3aiqwY3ApcGB7p_uvI&usqp=CAU",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 40,
         "likes": 8000,
         "bio": "Chef Jung Soo-yeon is a young and talented Korean chef making waves in the culinary world. Despite her relatively short 6 years of experience, she has already made a mark with her fresh and innovative take on Korean cuisine. Chef Soo-yeon's passion for experimenting with flavors and textures has led her to create delightful and unique dishes that appeal to both traditionalists and modern food enthusiasts. Her dedication to continuously learning and refining her skills is evident in every dish she presents. Chef Soo-yeon's promising career and commitment to pushing the boundaries of Korean cuisine make her one to watch in the coming years.",
         "recipes": [
             {
                 "name": "Bulgogi Tacos",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfFSFq207ssMcWJwsWMAem8qM1sQPq0Z25qqtwB2-2N-1dfHUiMqodv0uoQyKg-UoJIw&usqp=CAU",
                 "ingredients": [
                     "Thinly sliced beef",
                     "Soy sauce",
                     "Sesame oil",
                     "Garlic",
-                    "Ginger",
-                    "Tortillas",
-                    "Lettuce",
-                    "Sliced onions",
-                    "Sliced bell peppers"
+                    "Ginger"
                 ],
-                "cooking_method": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
+                "cookingMethod": "1. Marinate the beef in soy sauce, sesame oil, garlic, and ginger.2. Grill the marinated beef until cooked.3. Warm the tortillas and assemble the tacos with the grilled beef, lettuce, onions, and bell peppers.4. Serve hot and enjoy!",
                 "rating": 4.8
             },
             {
                 "name": "Korean Bibimbap Pizza",
+                "recipeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCext5CE4U63PKydrzcO0rBBdS9U3mjE5zfrw3HZEQFzmHSuQd7N1APSLyBpBiU71Lrqk&usqp=CAU",
                 "ingredients": [
                     "Pizza dough",
                     "Gochujang (Korean chili paste)",
@@ -283,18 +281,20 @@
                     "Sesame oil",
                     "Ground beef"
                 ],
-                "cooking_method": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
+                "cookingMethod": "1. Preheat the oven and roll out the pizza dough.2. Mix gochujang, soy sauce, and sesame oil to make the sauce.3. Cook the ground beef and vegetables separately.4. Spread the sauce on the pizza dough, add the cooked ingredients, and crack eggs on top.5. Bake until the crust is golden and the eggs are cooked.6. Sprinkle with sesame seeds and serve hot.",
                 "rating": 4.9
             },
             {
                 "name": "Galbi Jjim (Braised Short Ribs)",
+                "recipeImg": "https://mykoreankitchen.com/wp-content/uploads/2017/12/1.-Kalbi-Jjim.jpg",
                 "ingredients": [
                     "Beef short ribs",
                     "Soy sauce",
                     "Brown sugar",
-                    "Garlic"
+                    "Garlic",
+                    "Ground beef"
                 ],
-                "cooking_method": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
+                "cookingMethod": "1. Marinate the short ribs in a mixture of soy sauce, brown sugar, garlic, and ginger.2. Sear the short ribs in a pot.3. Add onions, carrots, potatoes, and chestnuts to the pot.4. Pour water to cover the ingredients and simmer until the meat is tender.5. Garnish with sesame seeds before serving.",
                 "rating": 4.7
             }
         ]
