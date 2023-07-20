@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chef_name": "Chef Lee Joon-ho",
-        "chef_picture": "http://example.com/lee_joon_ho.jpg",
+        "chef_picture": "https://i.pinimg.com/564x/2d/38/21/2d3821276cae0349c0a1602534ba7368.jpg",
         "years_of_experience": 15,
         "number_of_recipes": 120,
         "likes": 25000,
@@ -51,8 +51,8 @@
     },
     {
         "id": 2,
-        "chef_name": "Chef Kim Mi-soon",
-        "chef_picture": "http://example.com/kim_mi_soon.jpg",
+        "chef_name": "Chef Kim Mi-soo",
+        "chef_picture": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=681&simg=%2Fcontent%2Fimage%2F2023%2F02%2F23%2F20230223000758_0.jpg",
         "years_of_experience": 12,
         "number_of_recipes": 90,
         "likes": 18000,
@@ -102,7 +102,7 @@
     {
         "id": 3,
         "chef_name": "Chef Park Min-woo",
-        "chef_picture": "http://example.com/park_min_woo.jpg",
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtsFoJQfuP9Nz44aak3k9wCthF42pkL00ZaeIemTWsbAoVNmoTHfIPn1asA1jUv0QgHI&usqp=CAU",
         "years_of_experience": 8,
         "number_of_recipes": 70,
         "likes": 15000,
@@ -152,7 +152,7 @@
     {
         "id": 4,
         "chef_name": "Chef Choi Eun-ji",
-        "chef_picture": "http://example.com/choi_eun_ji.jpg",
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qke24Vy1iIHCQCIJGn7C5Awx5rjC3MSdQFiWYOE2eNSAOfoNJ5RIJNvmIP3jpFiH_3s&usqp=CAU",
         "years_of_experience": 20,
         "number_of_recipes": 180,
         "likes": 30000,
@@ -202,7 +202,7 @@
     {
         "id": 5,
         "chef_name": "Chef Yoon Sang-hyun",
-        "chef_picture": "http://example.com/yoon_sang_hyun.jpg",
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5zz5-rusMEuGnBaipjNPFbQqWW1ZQAKfBMvelxrL3f-aNJb18JslIDcnvX8TPe6lenM&usqp=CAU",
         "years_of_experience": 10,
         "number_of_recipes": 60,
         "likes": 12000,
@@ -252,7 +252,7 @@
     {
         "id": 6,
         "chef_name": "Chef Jung Soo-yeon",
-        "chef_picture": "http://example.com/jung_soo_yeon.jpg",
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTac4gOcIW-Mul0g2i5Q6wOG6OsCkymaWya-1XvfGyEusk3RJz1f3aiqwY3ApcGB7p_uvI&usqp=CAU",
         "years_of_experience": 6,
         "number_of_recipes": 40,
         "likes": 8000,
