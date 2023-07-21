@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1584774355269-dfa8465d48ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8S2ltY2hpfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "name": "Kimchi",
+        "rating": 4.8,
+        "price": "8,900 Korean won"
+    },
+    {
+        "id": 2,
+        "img": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1075&q=80",
+        "name": "Bibimbap",
+        "rating": 4.5,
+        "price": "12,490 Korean won"
+    },
+    {
+        "id": 3,
+        "img": "https://media.istockphoto.com/id/1494471191/photo/rapokki-or-rabokki-tteokbokki-with-korean-ramen-instan-noodle.webp?b=1&s=170667a&w=0&k=20&c=tX9KX0AcW08e_blcr2cjyUkwV2lNMfpLO7VKIUrI3ks=",
+        "name": "Red rice cakes (tteokbokki)",
+        "rating": 4.2,
+        "price": "6,900 Korean won"
+    }
+]
